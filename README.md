@@ -10,7 +10,8 @@ Version 2.0.0 has been released. Checkout [this discussion](https://github.com/k
 ## Installation
 Step 1. Add Eloquent Model Generator to your project:
 ```
-composer require mnarbash/eloquent-model-generator --dev
+composer require mnarbash/eloquent-model-generator:dev-2x --dev
+
 ```
 Step 2. Register `GeneratorServiceProvider`:
 ```php
